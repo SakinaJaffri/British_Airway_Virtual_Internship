@@ -35,4 +35,12 @@ We'll be working with two main datasets:
 
 Our findings and insights will be presented in PowerPoint slides, showcasing the outcomes of our web scraping efforts and predictive modeling of customer buying behavior.
 
+## Task 1
+After cleaning and analyzing the data, the results were summarized in one PowerPoint slide as follows:
+![british airway ppt 1](https://github.com/SakinaJaffri/British_Airway_Virtual_Internship/assets/146900226/85f2f0d7-e207-4942-a776-b7edaf23ca4e)
+
+## Task 2
+After exploring the data and building the random forest model, the results were summarized in one PowerPoint slide as follows:
+![british airway ppt 1](https://github.com/SakinaJaffri/British_Airway_Virtual_Internship/assets/146900226/590ef174-552f-49dc-987c-54a60242284f)
+
 
