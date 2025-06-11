@@ -43,4 +43,4 @@ After cleaning and analyzing the data, the results were summarized in one PowerP
 After exploring the data and building the random forest model, the results were summarized in one PowerPoint slide as follows:
 ![british airway ppt 1](https://github.com/SakinaJaffri/British_Airway_Virtual_Internship/assets/146900226/590ef174-552f-49dc-987c-54a60242284f)
 
-
+Project Methodology is inspired by Mireille Nehme (MireyNM)
